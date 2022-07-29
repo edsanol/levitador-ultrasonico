@@ -1,0 +1,6 @@
+código FJ1MSSNJ66Q8UBZ modificado para el proposito propio de la investigación.
+
+El codigo FJ1MSSNJ66Q8UBZ es libre y de descarga gratuita 
+obtenido de: https://www.instructables.com/Acoustic-Levitator/
+
+El código en esta carpeta es el que debe cargarse en el Arduino Nano para el funcionamiento de la planta ultrasónica.

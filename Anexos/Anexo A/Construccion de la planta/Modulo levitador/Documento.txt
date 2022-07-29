@@ -1,0 +1,6 @@
+Archivo de propiedad propia. Edinael Sanguino Olivares
+
+Modelado de la planta de control de posición de partículas en un levitador ultrasónico, 
+realizado en el software de diseño Blender
+
+Software de licencia gratuita y codigo abierto
